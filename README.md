@@ -1,4 +1,4 @@
-# 📦 Amazon Sales Data Analysis Project
+# 📦 Amazon Sales Data Analysis
 
 This project focuses on analyzing Amazon sales data using **Power BI** for visual insights. It explores various aspects like sales trends, product performance, customer behavior, and shipping patterns.
 
@@ -46,7 +46,7 @@ This project focuses on analyzing Amazon sales data using **Power BI** for visua
 
 ---
 
-## 🙋‍♂️ Author
+## 🔗 Author
 
-**Rahul Singh**
+**Rahul Singh**  
 Entry-Level MIS Executive
